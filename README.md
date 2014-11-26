@@ -1,4 +1,4 @@
 Basic Spring App
 ----
 
-Spring MVC sanity check.
+Spring MVC sanity check. Uses Spring Boot.
